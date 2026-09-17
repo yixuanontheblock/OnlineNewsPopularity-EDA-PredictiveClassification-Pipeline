@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Gradient Boosting,0.666,0.674,0.725,0.699
+Random Forest,0.661,0.669,0.721,0.694
+Logistic Regression,0.655,0.669,0.699,0.684
+KNN,0.629,0.659,0.632,0.645
+Decision Tree,0.572,0.602,0.587,0.594
