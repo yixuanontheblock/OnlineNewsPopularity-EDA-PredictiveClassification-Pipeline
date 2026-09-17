@@ -1,6 +1,6 @@
 # Online News Popularity: EDA & Predictive Classification Pipeline
 
-An end-to-end data science project predicting whether an article will become popular (shares $\ge$ 1,400) based on content, publication timing, keywords, and sentiment features. Developed for **SWA2124 (Group 27)**.
+An end-to-end data science project predicting whether an article will become popular (shares $\ge$ 1,400) based on content, publication timing, keywords, and sentiment features. Developed for **SWA2124 Social and Web Analytics(Group 27)**.
 
 ---
 
